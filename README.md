@@ -28,3 +28,5 @@ The Wallpaper Viewer GUI offers the following functionalities:
 3. Pillow (PIL) library for image handling
 
 ## Demo Video
+https://github.com/Chaitanya-2604/wallpaper_viewer_Gui/assets/119853009/75556eb1-1345-4d53-8ae6-a1086e28dc32
+
